@@ -1,16 +1,20 @@
-### Hi there 👋
+## txnzgit/README.md
 
-<!--
-**txnzgit/txnzgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+console.log(
+  `
+  Hey there! 👋 My name is txnz.
+  I'm a young and passionate developer with focus on server-side development.
+  I have experience with Javascript & Typescript, but I'm not currently proficient in them.
+  I also have some experience with Python but it's been ages since I last used it. 😐
+  `
+);
+```
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from proggraming, I also enjoy listening to music on [Spotify](open.spotify.com/) and hanging out with friends.
+
+**Contact information:**
+- [Discord](https://discord.com) - __txnz#0638__
+- [Twitter](https://twitter.com/txnzsacc) - __txnzsacc__
