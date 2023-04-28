@@ -16,5 +16,5 @@ console.log(
 Apart from proggraming, I also enjoy listening to music on [Spotify](open.spotify.com/) and hanging out with friends.
 
 **Contact information:**
-- [Discord](https://discord.com) - __txnz#0638__
-- [Twitter](https://twitter.com/txnzsacc) - __txnzsacc__
+- [Discord](https://discord.com) - txnz#0638
+- [Twitter](https://twitter.com/txnzsacc) - @txnzsacc
